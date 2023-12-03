@@ -15,7 +15,7 @@ if (!(Test-Path $downloadDirectory))
 }
 
 foreach ($installer in $installers) {
-    # Initialize naming variables
+    # Initialize variables
     $app = $installer.app
     $extension = $installer.extension
     $appCategory = $installer.category
