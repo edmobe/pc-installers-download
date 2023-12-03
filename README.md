@@ -15,3 +15,4 @@ A Powershell script to download all the installers required for my new PC using 
 1. Decide which flags you need. 
     1. `-AlwaysReplace`: Always replaces existing files in `InstallerExecutables\` folder.
     1. `-AskToKeep`: Asks wether to keep already existing file in `InstallerExecutables\` or replacing it with a new download.
+1. Run the script. Example: `.\Populate.ps1 -AlwaysReplace`
