@@ -1,0 +1,107 @@
+[
+    {
+        "app":"HwInfo",
+        "category":"telemetry",
+        "url":"https://netactuate.dl.sourceforge.net/project/hwinfo/Windows_Installer/hwi_766.exe"
+    },
+    {
+        "app":"WinDirStat",
+        "category":"telemetry",
+        "url":"https://netactuate.dl.sourceforge.net/project/windirstat/windirstat/1.1.2%20installer%20re-release%20%28more%20languages%21%29/windirstat1_1_2_setup.exe"
+    },
+    {
+        "app":"Logi Options Plus",
+        "category":"controller",
+        "url":"https://download01.logi.com/web/ftp/pub/techsupport/optionsplus/logioptionsplus_installer.exe"
+    },
+    {
+        "app":"Geforce Experience",
+        "category":"controller",
+        "url":"https://us.download.nvidia.com/GFE/GFEClient/3.27.0.120/GeForce_Experience_v3.27.0.120.exe"
+    },
+    {
+        "app":"Google Drive",
+        "category":"productivity",
+        "url":"https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe"
+    },
+    {
+        "app":"Discord",
+        "category":"social",
+        "url":"ms-windows-store://pdp?productid=XPDC2RH70K22MN",
+        "urlType":"deeplink"
+    },
+    {
+        "app":"Steam",
+        "category":"entertainment",
+        "url":"https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe"
+    },
+    {
+        "app":"Batlle Net",
+        "category":"entertainment",
+        "url":"https://downloader.battle.net/download/getInstaller?os=win&installer=Battle.net-Setup.exe&id=62a094b0-a6f9-4d0d-930a-9b3467a65505"
+    },
+    {
+        "app":"Epic Games",
+        "category":"entertainment",
+        "url":"ms-windows-store://pdp?productid=XP99VR1BPSBQJ2",
+        "urlType":"deeplink"
+    },
+    {
+        "app":"Office",
+        "category":"productivity",
+        "url":"ms-windows-store://pdp?productid=9WZDNCRD29V9",
+        "urlType":"deeplink"
+    },
+    {
+        "app":"Telegram",
+        "category":"social",
+        "url":"ms-windows-store://pdp?productId=9NZTWSQNTD0S",
+        "urlType":"deeplink"
+    },
+    {
+        "app":"WhatsApp",
+        "category":"social",
+        "url":"ms-windows-store://pdp?productId=9NKSQGP7F2NH",
+        "urlType":"deeplink"
+    },
+    {
+        "app":"Visual Studio",
+        "category":"dev",
+        "url":"ms-windows-store://pdp?productId=XP9KHM4BK9FZ7Q",
+        "urlType":"deeplink"
+    },
+    {
+        "app":"Git",
+        "category":"dev",
+        "url":"https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe"
+    },
+    {
+        "app":"Python 3.10.6",
+        "category":"dev",
+        "url":"https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe"
+    },
+    {
+        "app":"Nvidia Control Panel",
+        "category":"controller",
+        "url":"ms-windows-store://pdp?productId=9NF8H0H7WMLT",
+        "urlType":"deeplink"
+    },
+    {
+        "app":"Python 3.11",
+        "category":"dev",
+        "url":"ms-windows-store://pdp?productId=9NRWMJP3717K",
+        "urlType":"deeplink"
+    },
+    {
+        "app":"MSI Center",
+        "category":"telemetry",
+        "url":"ms-windows-store://pdp?productid=9NVMNJCR03XV",
+        "urlType":"deeplink"
+    },
+    {
+        "app":"OBS Studio",
+        "category":"entertainment",
+        "url":"ms-windows-store://pdp?productid=XPFFH613W8V6LV",
+        "urlType":"deeplink"
+    }
+]
