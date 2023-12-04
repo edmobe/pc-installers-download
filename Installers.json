@@ -103,5 +103,10 @@
         "category":"entertainment",
         "url":"ms-windows-store://pdp?productid=XPFFH613W8V6LV",
         "urlType":"deeplink"
+    },
+    {
+        "app":"WinRar",
+        "category":"productivity",
+        "url":"https://d.winrar.es/d/103z1701723819/hJm_af-JEt3o8eiORA-dvw/winrar-x64-624es.exe"
     }
 ]
