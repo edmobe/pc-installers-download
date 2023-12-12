@@ -108,5 +108,11 @@
         "app":"WinRar",
         "category":"productivity",
         "url":"https://d.winrar.es/d/103z1701723819/hJm_af-JEt3o8eiORA-dvw/winrar-x64-624es.exe"
+    },
+    {
+        "app":"Adobe Creative Cloud",
+        "category":"productivity",
+        "url":"ms-windows-store://pdp?productid=XPDLPKWG9SW2WD",
+        "urlType":"deeplink"
     }
 ]
